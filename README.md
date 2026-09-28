@@ -5,4 +5,4 @@
 5. *Project Development Phase*
 6. *Project Testing Phase*
 7. *Project Documentation Phase*
-8. *Project Demonstration Phase*
+8. *Project Demonstration phase*
