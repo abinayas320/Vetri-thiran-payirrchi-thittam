@@ -1,0 +1,9 @@
+GEMINI_API_KEY=AQ.Ab8RN6JGcymgtDepGy1QeDdHTTF2z2IA9Au-bUq6_QcgraXjxw
+GEMINI_MODEL=gemini-2.5-flash
+
+# Use true while learning/testing without an API key
+MOCK_MODE=true
+
+BACKEND_URL=http://127.0.0.1:8000
+
+ALLOWED_ORIGINS=http://localhost:8501,http://127.0.0.1:850
